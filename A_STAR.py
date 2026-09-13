@@ -1,3 +1,4 @@
+
 import heapq
 def a_star(graph,start,goal,heuristic):
     open_list=[]
