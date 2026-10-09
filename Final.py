@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 """
 Raspberry Pi Code - Fire Detection System with BlueDot Motor Control
