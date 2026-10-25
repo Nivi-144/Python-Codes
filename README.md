@@ -1,6 +1,4 @@
 # 🐍 Python Codes
-
-
 Welcome to my Python Codes repository!
 
 This repository contains Python programs that I have written while learning Python programming. It includes beginner to intermediate level problems, practice questions, and useful examples.
